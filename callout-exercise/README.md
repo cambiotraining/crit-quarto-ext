@@ -40,7 +40,7 @@ This is a hint to help with the exercise.
 This is the answer to the exercise.
 :::
 :::
-
+```
 
 ## Customisation
 
